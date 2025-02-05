@@ -8,7 +8,7 @@
 `npm i`
 
 # Create '.env' file and add 'OPENAI_API_KEY' environment variable. Store OpenAI generated API Key here
-`OPENAI_API_KEY= efewf..........32r9832d`
+`OPENAI_API_KEY=efewf..........32r9832d`
 
 # Run Node Server and Ollama Server
 `npm run dev`
