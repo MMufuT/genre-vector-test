@@ -7,6 +7,9 @@
 # Install Node Dependencies
 `npm i`
 
+# Create '.env' file and add 'OPENAI_API_KEY' environment variable. Store OpenAI generated API Key here
+`OPENAI_API_KEY= efewf..........32r9832d`
+
 # Run Node Server and Ollama Server
 `npm run dev`
 - Note: This command should start both servers at the same time and end both at the same time (Ctrl+C) via the "concurrently" node dependency, allowing multiple processes to run in parallel
